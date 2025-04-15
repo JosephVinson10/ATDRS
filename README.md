@@ -19,12 +19,3 @@ pip install scapy
 sudo python3 ATDRS.py
 ```
 
-## Configuration
-Edit the following variables in the script:
-- `SUSPICIOUS_IPS`: List of IPs to monitor
-- `ALERT_EMAIL`: Email address to receive alerts
-- `EMAIL_USERNAME` and `EMAIL_PASSWORD`: SMTP email credentials
-- `SMTP_SERVER` and `SMTP_PORT`: Email server settings
-
-## Disclaimer
-This project is for educational purposes only. Ensure compliance with local laws before monitoring network traffic.
